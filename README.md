@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daler Singh
-- 👀 I’m an enthusiastic Python Developer, interested in learning and working on trending technologies.
+- 👀 I’m an enthusiastic Software Developer, interested in learning and working on trending technologies.
 - 🌱 I’m currently pursuing my Masters in Computer Engineering from the University of Windsor.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me .. -->
